@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amr Elsharif
 - 👀 I’m interested in Web Development with .NET Technologies.
-- 🌱 I'm working as a backend developer .NET Core in Kadabra Services,
+- 🌱 I'm working as a backend developer .NET core,
      I studied ASP.NET Core, C#, MS SQL, MVC, Entity Framework, LINQ for Backend,
                         And HTML5, CSS3, JavaScript, Bootstrap, TypeScript, Angular for a Frontend.
 - 💞️ I’m ready to collaborate on building fully website from scratch with a software company.
