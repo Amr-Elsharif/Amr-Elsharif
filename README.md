@@ -3,9 +3,9 @@
 
 - 👀 I’m interested in Web Development with .NET Technologies.
 
-- 🔭 I’m currently working as a Backend Developer .NET Core on [McShippers](https://mcshippers.com/)
+- 🔭 I’m currently working as a Backend Engineer on [TurnDigital](https://www.turndigital.net/)
 
-- 🌱 I’m currently learning **Advanced C# Course, .NET6, Design Patterns & Data Structures**
+- 🌱 I’m currently increase my skills in **Advanced C# Course, .NET6, Design Patterns & Data Structures**
 
 - 💞️ I’m ready to collaborate on building fully website from scratch with a software company.
 
